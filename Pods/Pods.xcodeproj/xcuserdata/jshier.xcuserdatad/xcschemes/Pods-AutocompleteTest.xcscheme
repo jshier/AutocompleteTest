@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "6CE72F43CFB1EE824FF2133F017EE44C"
+               BlueprintIdentifier = "9A0B3A9A985FFEEE070DE7001318712A"
                BuildableName = "Pods_AutocompleteTest.framework"
                BlueprintName = "Pods-AutocompleteTest"
                ReferencedContainer = "container:Pods.xcodeproj">
@@ -45,7 +45,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "6CE72F43CFB1EE824FF2133F017EE44C"
+            BlueprintIdentifier = "9A0B3A9A985FFEEE070DE7001318712A"
             BuildableName = "Pods_AutocompleteTest.framework"
             BlueprintName = "Pods-AutocompleteTest"
             ReferencedContainer = "container:Pods.xcodeproj">
