@@ -9,12 +9,19 @@
 import UIKit
 
 class ViewController: UIViewController {
+    enum SubType { case one, two }
 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
 
+    func doSomething() {
+        
+    }
+}
 
+struct Value {
+    let string: String
 }
 
